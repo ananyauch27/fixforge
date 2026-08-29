@@ -119,8 +119,7 @@ Requests. Qodo identified [ISSUE FOUND] in `agent.py` / `tools.py`. This
 was fixed by [WHAT YOU CHANGED], and a follow-up review confirmed the fix
 before merging.
 
-PR: [ADD PUBLIC GITHUB PR LINK HERE]
-
+PR: https://github.com/ananyauch27/fixforge/pull/1
 ## Roadmap (if time allows)
 
 - Accept a GitHub issue URL directly instead of free-text bug reports
